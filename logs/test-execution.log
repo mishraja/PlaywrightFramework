@@ -1,0 +1,37 @@
+2026-02-25 10:17:15 [INFO]: Initialized ApiHelper for API tests
+2026-02-25 10:17:15 [INFO]: API Request: [GET] /users?page=2
+2026-02-25 10:17:16 [ERROR]: API Response Error: Request failed with status code 403
+2026-02-25 10:17:17 [INFO]: Initialized ApiHelper for API tests
+2026-02-25 10:17:17 [INFO]: API Request: [POST] /users
+2026-02-25 10:17:18 [ERROR]: API Response Error: Request failed with status code 403
+2026-02-25 10:17:20 [INFO]: Initialized ApiHelper for API tests
+2026-02-25 10:17:20 [INFO]: API Request: [PUT] /users/2
+2026-02-25 10:17:20 [ERROR]: API Response Error: Request failed with status code 403
+2026-02-25 10:17:22 [INFO]: Initialized ApiHelper for API tests
+2026-02-25 10:17:22 [INFO]: API Request: [DELETE] /users/2
+2026-02-25 10:17:23 [ERROR]: API Response Error: Request failed with status code 403
+2026-02-25 10:17:40 [INFO]: Initialized ApiHelper for API tests
+2026-02-25 10:17:40 [INFO]: API Request: [GET] /users?page=2
+2026-02-25 10:17:41 [ERROR]: API Response Error: Request failed with status code 403
+2026-02-25 10:17:43 [INFO]: Initialized ApiHelper for API tests
+2026-02-25 10:17:43 [INFO]: API Request: [POST] /users
+2026-02-25 10:17:43 [ERROR]: API Response Error: Request failed with status code 403
+2026-02-25 10:17:45 [INFO]: Initialized ApiHelper for API tests
+2026-02-25 10:17:45 [INFO]: API Request: [PUT] /users/2
+2026-02-25 10:17:47 [ERROR]: API Response Error: Request failed with status code 403
+2026-02-25 10:17:48 [INFO]: Initialized ApiHelper for API tests
+2026-02-25 10:17:48 [INFO]: API Request: [DELETE] /users/2
+2026-02-25 10:17:49 [ERROR]: API Response Error: Request failed with status code 403
+2026-02-25 10:18:09 [INFO]: Initialized ApiHelper for API tests
+2026-02-25 10:18:09 [INFO]: API Request: [GET] /posts
+2026-02-25 10:18:10 [INFO]: API Response: [200] /posts
+2026-02-25 10:18:10 [INFO]: GET /posts test passed
+2026-02-25 10:18:10 [INFO]: API Request: [POST] /posts
+2026-02-25 10:18:10 [INFO]: API Response: [201] /posts
+2026-02-25 10:18:10 [INFO]: POST /posts test passed
+2026-02-25 10:18:10 [INFO]: API Request: [PUT] /posts/1
+2026-02-25 10:18:11 [INFO]: API Response: [200] /posts/1
+2026-02-25 10:18:11 [INFO]: PUT /posts/1 test passed
+2026-02-25 10:18:11 [INFO]: API Request: [DELETE] /posts/1
+2026-02-25 10:18:11 [INFO]: API Response: [200] /posts/1
+2026-02-25 10:18:11 [INFO]: DELETE /posts/1 test passed
